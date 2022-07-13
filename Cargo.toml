@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "gateio-client",
+  "binance-client",
+  "huobi-client"
+]
